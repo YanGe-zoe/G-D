@@ -1,7 +1,7 @@
 # G-D
 
 **Aims**  
-1、To address the limitation of existing pump-driven droplet microfluidic technologies, which are unable to generate microdroplets at relatively low speeds.
+1、To address the limitation of existing pump-driven droplet microfluidic technologies, which are unable to generate microdroplets at relatively low speeds.</b>
 2、 To overcome the inability of current droplet microfluidic systems to generate a single microdroplet at a specific moment on demand.
 
 **Methods**  
