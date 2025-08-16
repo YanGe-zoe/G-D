@@ -16,3 +16,8 @@ the liquid-level control module includes one unit for regulating the height of t
 By repeatedly switching the three-way valve, stable droplet generation can be achieved at a maximum frequency of 1 droplet per second. When combined with optical tweezer technology, this system allows individual cells to be encapsulated within single droplets, enabling precise manipulation at the single-cell level.
 
 ![Schematic of the Gravity-Driven Single-Droplet Generator](images/Schematic%20of%20the%20Gravity-Driven%20Single-Droplet%20Generator.png)
+**Key points**  
+•	Coupled optical tweezers with gravity-driven microfluidics to achieve precise droplet generation, addressing dual challenges in single-cell sorting and downstream analysis: droplet stability and encapsulation accuracy.</b>
+•	Utilised three-way valve control and gravity-driven pressure tuning of oil and water phases to achieve stable droplet generation at a rate of one droplet per second.</b>
+•	Adjusted the three-way valve to maintain a higher water-phase pressure than oil-phase, enabling precise single-cell encapsulation in individual droplets using optical tweezers.</b>
+
