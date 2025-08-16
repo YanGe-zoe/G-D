@@ -19,6 +19,8 @@ By repeatedly switching the three-way valve, stable droplet generation can be ac
 
 **Key points**  
 •	Coupled optical tweezers with gravity-driven microfluidics to achieve precise droplet generation, addressing dual challenges in single-cell sorting and downstream analysis: droplet stability and encapsulation accuracy.</b>
+
 •	Utilised three-way valve control and gravity-driven pressure tuning of oil and water phases to achieve stable droplet generation at a rate of one droplet per second.</b>
+
 •	Adjusted the three-way valve to maintain a higher water-phase pressure than oil-phase, enabling precise single-cell encapsulation in individual droplets using optical tweezers.</b>
 
